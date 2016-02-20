@@ -6,6 +6,6 @@
 [![Circle CI](https://circleci.com/gh/OnsenUI/OnsenUI.svg?style=shield)](http://openjdk.java.net/) 
 [![Coverage Status](https://coveralls.io/repos/OnsenUI/OnsenUI/badge.svg?branch=master&service=github)](http://openjdk.java.net/)
 
-The best place to start with Onsen UI is our [Getting Started](http://openjdk.java.net/) page.
+The best place to start with OpenJDK is our [Getting Started](http://openjdk.java.net/) page.
 
 ![The step to single code multiple Divices](http://s5.postimg.org/ycmz5etrr/openjdk.png)
